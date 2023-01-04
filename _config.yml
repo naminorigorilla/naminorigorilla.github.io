@@ -1,4 +1,4 @@
-repository: netchira/netchira.github.io
+repository: naminorigirilla/naminorigorilla.github.io
 
 markdown: kramdown
 highlighter: rouge
@@ -7,7 +7,7 @@ permalink: none
 
 theme: jekyll-theme-architect
 
-url: "https://netchira.github.io" 
+url: "https://naminorigorilla.github.io" 
 plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
