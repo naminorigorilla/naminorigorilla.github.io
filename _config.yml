@@ -1,0 +1,14 @@
+repository: naminorigorilla/naminorigorilla.github.io
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: none
+
+theme: jekyll-theme-architect
+
+url: "https://naminorigorilla.github.io" 
+plugins:
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-feed
